@@ -1,2 +1,2 @@
-# Discover_Worldwide_22-02-24
-Discover the secrets to crafting an eye-catching travel landing page with HTML, CSS, and JavaScript!
+# Responsive Landing Page
+![image](https://github.com/AhmedEssam01/CodeAlpha_AgeCalculator/assets/58954036/6ad10bbf-2bdc-4141-b242-b2f1a750de0b)
